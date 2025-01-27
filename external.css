@@ -1,0 +1,32 @@
+body{
+  font-family: Helvetica, Arial, Helvetica, sans-serif;
+  background-color: rgb(201, 206, 200);
+  text-align: center;
+  color:black;
+    margin-left: 20px ;
+    margin-right: 10px auto;
+
+    border: 1px solid rgb(118,190,192) ;
+}
+h1{
+  font-size: 50px;
+  margin: 0;
+  
+}
+button{
+  color: rgb(46, 53, 53);
+  border: 1px solid rgb(17, 20, 20) ;
+  padding: 10px 20px;
+  font-size: 25px;
+  border-radius: 10px;
+  background-color: rgba(58, 56, 58, 0.5);
+  margin-bottom: 10px;
+  /* opacity: 0.9; */
+}
+p{
+  font-style: italic;
+}
+h2{
+  color: rgb(192, 145, 221);
+  border-top: solid 1px #333;
+}
